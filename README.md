@@ -1,4 +1,4 @@
-#gambar
+
 ![gambar1](https://user-images.githubusercontent.com/106424425/210159756-3b3fe027-d49b-4a23-a752-6a0bbc3d1cd6.png)
 
 ![gambar2](https://user-images.githubusercontent.com/106424425/210159762-21e0d6d6-dcbf-4056-b271-fbb3f34138df.png)
